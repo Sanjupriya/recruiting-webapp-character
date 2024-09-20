@@ -44,3 +44,18 @@
     transform: rotate(360deg);
   }
 }
+
+.table-container { 
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: space-between; 
+  margin: 2px; 
+} 
+
+
+
+th, 
+td { 
+  text-align: left; 
+} 
+
